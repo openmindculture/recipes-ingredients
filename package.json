@@ -1,28 +1,26 @@
 {
-  "name": "recipes-ingredients",
-  "version": "1.0.0",
-  "description": "simple recipe search based on existing ingredients",
-  "main": "index.js",
-  "dependencies": {
-    "@babel/core": "^7.2.2",
-    "@babel/plugin-transform-react-jsx": "^7.2.0",
-    "babel-loader": "^8.0.4",
-    "preact": "^8.4.2",
-    "webpack": "^4.28.3",
-    "webpack-cli": "^3.2.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/openmindculture/recipes-ingredients.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/openmindculture/recipes-ingredients/issues"
-  },
-  "homepage": "https://github.com/openmindculture/recipes-ingredients#readme"
-}
+    "name": "recipes-ingredients",
+    "version": "1.0.0",
+    "description": "simple recipe search based on existing ingredients",
+    "main": "index.js",
+    "dependencies": {
+      "@babel/core": "^7.2.2",
+      "babel-loader": "^8.0.4",
+      "webpack": "^4.28.3",
+      "webpack-cli": "^3.2.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/openmindculture/recipes-ingredients.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/openmindculture/recipes-ingredients/issues"
+    },
+    "homepage": "https://github.com/openmindculture/recipes-ingredients#readme"
+  }
