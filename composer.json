@@ -1,5 +1,5 @@
 {
-    "name": "recipes-ingredients",
+    "name": "ingos/recipes-ingredients",
     "version": "1.0.0",
     "description": "simple recipe search based on existing ingredients",
     "type": "project",
@@ -62,7 +62,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "git+https://github.com/openmindculture/recipes-ingredients.git"
+            "url": "https://github.com/openmindculture/recipes-ingredients.git"
         }
     ]
 }
